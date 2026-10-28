@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Moonraker (Klipper) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/Arksine/moonraker
+Moonraker is an open-source Python 3 based web server that provides a JSON‑RPC and RESTful API for controlling 3D printers running Klipper firmware. It enables client applications to manage printer objects, job queues, webcams, updates, and extensions via HTTP endpoints. The project is hosted on GitHub and documented on Read the Docs, offering installation guides, configuration details, and extensive API reference for developers.
+
+**Areas:** Company · 3D Printing · Open Source · Python · Klipper
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://moonraker.readthedocs.io)
+- [Documentation](https://moonraker.readthedocs.io/en/latest/)
+- [Getting started](https://moonraker.readthedocs.io/en/latest/installation/)
+- [API reference](https://moonraker.readthedocs.io/en/latest/external_api/introduction/)
+- [Support](https://github.com/Arksine/moonraker/issues)
+- [GitHub](https://github.com/Arksine)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/moonraker/](https://apis.io/providers/moonraker/).
